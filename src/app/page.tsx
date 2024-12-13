@@ -21,7 +21,6 @@ export default async function Home() {
             key={product.id} 
             product={product}
           >
-
           </Product>
         ))}
 
